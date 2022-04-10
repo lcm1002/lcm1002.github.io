@@ -4,7 +4,7 @@ description: Share something Experience
 url: https://lcm1002.github.io
 avatar: /kenan.jpg
 paginate: 5
-permalink: south
+permalink: pretty
 cover_image: /background1.jpeg
 #cover_bg_color: rgb(243, 165, 243)
 cover_color: rgb(255, 210, 94) #颜色
