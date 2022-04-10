@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: Nan Xie
+description: Share something Experience 
 url: https://lcm1002.github.io
 avatar: /kenan.jpg
 paginate: 5
-permalink: pretty
-cover_image: /background.jpeg
+permalink: south
+cover_image: /background1.jpeg
 
 # Gems
 plugins:
