@@ -6,7 +6,8 @@ avatar: /kenan.jpg
 paginate: 5
 permalink: south
 cover_image: /background1.jpeg
-
+cover_bg_color: rgb(40, 73, 77)
+cover_color: rgb(255, 255, 0) #颜色
 # Gems
 plugins:
   - jekyll-gist
